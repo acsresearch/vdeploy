@@ -1,0 +1,7 @@
+
+docker_image = "pytorch/pytorch"
+
+
+[machine]
+gpu_total_ram = 24000
+inet_down = 1000
