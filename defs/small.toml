@@ -1,0 +1,6 @@
+
+query = "inet_down > 1000 num_gpus=1"
+docker_image = "pytorch/pytorch"
+
+
+
